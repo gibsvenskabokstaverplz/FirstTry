@@ -1,0 +1,2 @@
+# FirstTry
+Learn about github
